@@ -1,4 +1,4 @@
-# Logs
+git status# Logs
 logs
 *.log
 npm-debug.log*
@@ -16,8 +16,6 @@ dist-ssr
 .vscode/*
 !.vscode/extensions.json
 .idea
-.idea/
-*.iml
 .DS_Store
 *.suo
 *.ntvs*
